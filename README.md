@@ -1,4 +1,4 @@
-# Hi, I'm Kabir! 👋
+# Hi, I'm Ambani! 👋
 
 I'm Kabir, a Discord Bot Developer, and here is my advanced Discord Music Bot.
 
